@@ -1,0 +1,15 @@
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\Industria.Data.deps.json
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\Industria.Data.dll
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\Industria.Data.pdb
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\obj\Debug\netcoreapp2.2\Industria.Data.csprojAssemblyReference.cache
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\obj\Debug\netcoreapp2.2\Industria.Data.csproj.CoreCompileInputs.cache
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\obj\Debug\netcoreapp2.2\Industria.Data.AssemblyInfoInputs.cache
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\obj\Debug\netcoreapp2.2\Industria.Data.AssemblyInfo.cs
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\obj\Debug\netcoreapp2.2\Industria.Data.dll
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\obj\Debug\netcoreapp2.2\Industria.Data.pdb
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\Industria.Data.runtimeconfig.json
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\Industria.Data.runtimeconfig.dev.json
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\Industria.Domain.dll
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\bin\Debug\netcoreapp2.2\Industria.Domain.pdb
+C:\Jorge Higor\NET\Projeto\src\4 - Infra\4.1 - Data\Industria.Data\obj\Debug\netcoreapp2.2\Industria.Data.csproj.CopyComplete
