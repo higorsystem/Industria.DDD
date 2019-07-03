@@ -7,3 +7,11 @@ C:\Jorge Higor\NET\Projeto\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2
 C:\Jorge Higor\NET\Projeto\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.AssemblyInfo.cs
 C:\Jorge Higor\NET\Projeto\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.dll
 C:\Jorge Higor\NET\Projeto\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.pdb
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\bin\Debug\netcoreapp2.2\Industria.Domain.deps.json
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\bin\Debug\netcoreapp2.2\Industria.Domain.dll
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\bin\Debug\netcoreapp2.2\Industria.Domain.pdb
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.AssemblyInfoInputs.cache
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.AssemblyInfo.cs
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.dll
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.pdb
