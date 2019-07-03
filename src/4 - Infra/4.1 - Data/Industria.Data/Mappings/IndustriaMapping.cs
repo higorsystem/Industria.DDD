@@ -1,6 +1,7 @@
 
 namespace Industria.Data.Mappings
 {
+    using System.ComponentModel.DataAnnotations.Schema;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
@@ -8,9 +9,10 @@ namespace Industria.Data.Mappings
     {
         public void Configure(EntityTypeBuilder<Industria.Domain.Entities.Industria> builder)
         {
-             builder.ToTable("Industria");
+             builder.ToTable("tbIndustria");
             
              builder.HasKey(i => i.Id);
+             builder.Property(i => i.Id).UseSqlServerIdentityColumn();
             
              builder.Property(i => i.Codigo)
                     .IsRequired()

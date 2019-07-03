@@ -15,3 +15,12 @@ C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCut
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.AssemblyInfo.cs
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.dll
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\bin\Debug\netcoreapp2.2\Industria.CrossCutting.deps.json
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\bin\Debug\netcoreapp2.2\Industria.CrossCutting.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\bin\Debug\netcoreapp2.2\Industria.CrossCutting.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.csprojAssemblyReference.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.AssemblyInfo.cs
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.pdb

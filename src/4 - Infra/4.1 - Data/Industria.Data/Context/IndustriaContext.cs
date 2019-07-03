@@ -11,19 +11,16 @@ namespace Industria.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration(new IndustriaMapping());
+            modelBuilder.ForSqlServerUseIdentityColumns();
+            modelBuilder.HasDefaultSchema("Industria");
             
+            modelBuilder.ApplyConfiguration(new IndustriaMapping());            
             base.OnModelCreating(modelBuilder);
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            var config = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json")
-                .Build();
-
-            optionsBuilder.UseSqlServer(config.GetConnectionString("DefaultConnection"));
+        {   
+            optionsBuilder.UseSqlServer("Data Source=pat1893; Initial Catalog=Industria;User ID=sa;Password=123456;Trusted_Connection=False;Min Pool Size=5;Max Pool Size=250;Connect Timeout=30;MultipleActiveResultSets=True;Application Name=Industria");
         }
     }
 }

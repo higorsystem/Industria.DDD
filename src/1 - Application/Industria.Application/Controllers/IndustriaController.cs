@@ -1,6 +1,7 @@
 namespace Industria.Application.Controllers
 {
     using System.Collections.Generic;
+    using System.Linq;
     using Industria.Application.DTO;
     using Industria.Application.DTO.Parser;
     using Industria.Service.Service;
@@ -26,23 +27,33 @@ namespace Industria.Application.Controllers
 
         [HttpGet]
         [Route("{id}")]
-        public IndustriaDTO Get(string id)
+        public IndustriaDTO Get(int id)
         {
-            return new IndustriaDTO();
+            var entidade = _service.ObterPorId(id);
+            return IndustriaParser.Parser(entidade);
         }
 
         [HttpGet]
         [Route("listar-todos")]
         public List<IndustriaDTO> GetAll()
         {
-            return new List<IndustriaDTO>();
+            var entidades = _service.ObterTodos();
+            return IndustriaParser.Parser(entidades).ToList();
         }
 
         [HttpPut]
         [Route("{id}")]
-        public IndustriaDTO Put([FromBody] IndustriaDTO contrato, string id)
+        public IndustriaDTO Put([FromBody] IndustriaDTO contrato, int id)
         {
-            return new IndustriaDTO();
+            var entidade = _service.ObterPorId(id);
+            if(entidade != null)
+            {
+                var contratoEditado = IndustriaParser.Parser(contrato, entidade);
+                var entidadeEditada = _service.Alterar(contratoEditado);
+                return IndustriaParser.Parser(entidadeEditada);    
+            }
+
+            return null;
         }
     }
 }

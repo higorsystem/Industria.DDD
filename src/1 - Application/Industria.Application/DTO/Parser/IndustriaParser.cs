@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
-using Industria.Application.DTO;
-using Industria.Domain.Entities;
+using Industria.Domain.Entities.Enum;
 
 namespace Industria.Application.DTO.Parser
 {
@@ -18,6 +17,17 @@ namespace Industria.Application.DTO.Parser
             contrato.Tipo = (int) entidade.Tipo;
 
             return contrato;
+        }
+
+           public static Industria.Domain.Entities.Industria Parser(IndustriaDTO contrato, Industria.Domain.Entities.Industria entidade)
+        {
+            if(entidade == null) return null;
+            
+            entidade.Codigo = contrato.Codigo ?? entidade.Codigo;
+            entidade.Descricao = contrato.Descricao ?? entidade.Descricao;
+            entidade.Tipo = (ETipo) (contrato.Tipo != 0 ? contrato.Tipo : (int) entidade.Tipo);
+
+            return entidade;
         }
 
         public static IEnumerable<IndustriaDTO> Parser(List<Industria.Domain.Entities.Industria> listaEntidades)

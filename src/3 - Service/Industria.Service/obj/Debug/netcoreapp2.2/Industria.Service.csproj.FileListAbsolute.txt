@@ -22,3 +22,18 @@ C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Se
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.csproj.CopyComplete
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.dll
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\Industria.Service.deps.json
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\Industria.Service.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\Industria.Service.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\Industria.Data.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\Industria.Domain.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\Industria.Domain.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\bin\Debug\netcoreapp2.2\Industria.Data.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.csprojAssemblyReference.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.csproj.CoreCompileInputs.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.AssemblyInfoInputs.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.AssemblyInfo.cs
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.csproj.CopyComplete
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\3 - Service\Industria.Service\obj\Debug\netcoreapp2.2\Industria.Service.pdb

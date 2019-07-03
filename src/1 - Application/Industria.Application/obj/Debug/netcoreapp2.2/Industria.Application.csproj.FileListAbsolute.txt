@@ -34,3 +34,25 @@ C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\1 - Application\Industri
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.csproj.CopyComplete
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.dll
 C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Application.deps.json
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Application.runtimeconfig.json
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Application.runtimeconfig.dev.json
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Application.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Application.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Data.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Domain.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Service.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Service.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Domain.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\bin\Debug\netcoreapp2.2\Industria.Data.pdb
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.csprojAssemblyReference.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.csproj.CoreCompileInputs.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.RazorAssemblyInfo.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.RazorAssemblyInfo.cs
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.AssemblyInfoInputs.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.AssemblyInfo.cs
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.RazorTargetAssemblyInfo.cache
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.csproj.CopyComplete
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.dll
+C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\1 - Application\Industria.Application\obj\Debug\netcoreapp2.2\Industria.Application.pdb
