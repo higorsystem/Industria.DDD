@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/thiagodp/concordialang.svg?branch=master)](https://travis-ci.org/higorsystem/Industria.DDD)
+[![Build Status](https://travis-ci.org/higorsystem/Industria.DDD.svg?branch=master)](https://travis-ci.org/higorsystem/Industria.DDD)
 [![GitHub last commit](https://img.shields.io/github/last-commit/higorsystem/starwars-api.svg)](https://github.com/higorsystem/Industria.DDD/releases)
 [![npm](https://img.shields.io/badge/licen%C3%A7a-MIT-green.svg)](https://github.com/higorsystem/Industria.DDD/blob/master/LICENSE.txt)
 
