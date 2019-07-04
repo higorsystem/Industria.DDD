@@ -24,3 +24,4 @@ C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossC
 C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.AssemblyInfo.cs
 C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.dll
 C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.pdb
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\4 - Infra\4.2 - CrossCutting\Industria.CrossCutting\obj\Debug\netcoreapp2.2\Industria.CrossCutting.csprojAssemblyReference.cache

@@ -24,3 +24,4 @@ C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.D
 C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.AssemblyInfo.cs
 C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.dll
 C:\Users\jorge.dsn.erp\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.pdb
+C:\Users\Jorge Higor\Documents\GitHub\Industria.DDD\src\2 - Domain\Industria.Domain\obj\Debug\netcoreapp2.2\Industria.Domain.csprojAssemblyReference.cache

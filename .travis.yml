@@ -1,0 +1,7 @@
+language: csharp
+solution: Industria.sln
+mono: none
+dotnet: 2.2.100
+script:
+ - dotnet restore
+ - dotnet build

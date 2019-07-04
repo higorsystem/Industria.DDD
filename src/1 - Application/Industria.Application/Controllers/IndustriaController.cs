@@ -1,6 +1,8 @@
 namespace Industria.Application.Controllers
 {
+    using System;
     using System.Collections.Generic;
+    using System.Data.SqlClient;
     using System.Linq;
     using Industria.Application.DTO;
     using Industria.Application.DTO.Parser;
@@ -8,6 +10,7 @@ namespace Industria.Application.Controllers
     using Microsoft.AspNetCore.Mvc;
 
     [Route("api/[controller]")]
+    [Produces("application/json")]
     [ApiController]
     public class IndustriaController : ControllerBase
     {
@@ -20,25 +23,46 @@ namespace Industria.Application.Controllers
         [HttpPost] 
         public IActionResult Post([FromBody] IndustriaDTO contrato)
         {
-            var entidade = IndustriaParser.Parser(contrato);
-            _service.Adicionar(entidade);
-            return Ok(entidade);
+            try
+            {
+                 var entidade = IndustriaParser.Parser(contrato);
+                _service.Adicionar(entidade);
+                return Ok(entidade);
+            }
+            catch(SqlException)
+            {
+                return BadRequest(new { message = "O campo 'Codigo' já está cadastrado na base, por favor altere para prosseguir com a operação."});
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(new { message = "Um error inesperado aconteceu. Por favor verifique se o seu contrato está correto!"});
+            }
+           
         }
 
         [HttpGet]
         [Route("{id}")]
-        public IndustriaDTO Get(int id)
+        public ActionResult<IndustriaDTO> Get(int id)
         {
             var entidade = _service.ObterPorId(id);
-            return IndustriaParser.Parser(entidade);
+            if(entidade == null)
+            {
+                return NotFound(new { message = "O idenficador: " + id + " não foi encontrado na base de dados!"});
+            }
+
+            return Ok(IndustriaParser.Parser(entidade));
         }
 
-        [HttpGet]
-        [Route("listar-todos")]
-        public List<IndustriaDTO> GetAll()
+        [HttpGet]        
+        public ActionResult<List<IndustriaDTO>> GetAll()
         {
             var entidades = _service.ObterTodos();
-            return IndustriaParser.Parser(entidades).ToList();
+            if(entidades.Any())
+            {
+                return Ok(IndustriaParser.Parser(entidades).ToList());
+            }
+
+            return NotFound(new { message = "Nenhum dado encontrado!"});
         }
 
         [HttpPut]
@@ -54,6 +78,27 @@ namespace Industria.Application.Controllers
             }
 
             return null;
+        }
+
+        [HttpDelete]
+        [Route("{id}")]
+        public IActionResult Delete(int id)
+        {
+            try
+            {
+                var entidade = _service.ObterPorId(id);
+                if(entidade != null)
+                {
+                    _service.Delete(id);
+                    return Ok(new { message = "A industria: " + id + " foi excluída com sucesso."});
+                }
+
+                return NotFound(new { message = "O identificador: " + id + " não foi encontrado, portanto não pode ser excluído."});
+            }
+            catch (Exception ex)
+            {                
+                return BadRequest(ex.Message);
+            }
         }
     }
 }

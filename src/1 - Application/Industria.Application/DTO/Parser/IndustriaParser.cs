@@ -19,7 +19,7 @@ namespace Industria.Application.DTO.Parser
             return contrato;
         }
 
-           public static Industria.Domain.Entities.Industria Parser(IndustriaDTO contrato, Industria.Domain.Entities.Industria entidade)
+        public static Industria.Domain.Entities.Industria Parser(IndustriaDTO contrato, Industria.Domain.Entities.Industria entidade)
         {
             if(entidade == null) return null;
             

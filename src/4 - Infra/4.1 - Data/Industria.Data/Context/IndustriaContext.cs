@@ -20,7 +20,7 @@ namespace Industria.Data.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {   
-            optionsBuilder.UseSqlServer("Data Source=pat1893; Initial Catalog=Industria;User ID=sa;Password=123456;Trusted_Connection=False;Min Pool Size=5;Max Pool Size=250;Connect Timeout=30;MultipleActiveResultSets=True;Application Name=Industria");
+            optionsBuilder.UseSqlServer("Data Source=localhost; Initial Catalog=Industria;User ID=sa;Password=123456;Trusted_Connection=False;Min Pool Size=5;Max Pool Size=250;Connect Timeout=30;MultipleActiveResultSets=True;Application Name=Industria");
         }
     }
 }
