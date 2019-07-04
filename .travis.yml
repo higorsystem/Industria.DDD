@@ -1,7 +1,9 @@
 language: csharp
-solution: Industria.sln
 mono: none
-dotnet: 2.2.100
+sudo: required
+dist: xenial
+dotnet: 2.2
+solution: Industria.sln
 script:
- - dotnet restore
- - dotnet build
+  - dotnet restore
+  - dotnet build
